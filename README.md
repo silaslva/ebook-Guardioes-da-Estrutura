@@ -6,7 +6,9 @@
 
 ## 📖 Sobre o Projeto
 
-Esse projeto foi uma realização do Bootcamp Santander 2024 em IA com a DIO, o que você verá de conteúdo é uma mescla de aprendizado onde foi utilizado o ChatGPT para idéias e algumas explicações porém com apoio e aulas de uma amiga chamada Ananda, todos os códigos foram testados e validados. Foi um projeto incrível que tive a oportunidade de realizar, ele é para fins didáticos e toda sugestão será bem vinda. 
+Esse projeto foi uma realização do Bootcamp Santander 2024 em IA com a DIO 
+
+O que você verá de conteúdo é uma mescla de aprendizado onde foi utilizado o ChatGPT para idéias e algumas explicações porém tive apoio e aulas de uma amiga chamada Ananda, reforço que todos os códigos foram revisados, testados e validados. Foi um projeto incrível que tive a oportunidade de realizar, ele é para fins didáticos e toda sugestão será bem vinda. 
 
 Muito obrigado e aproveite 😄
 
