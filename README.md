@@ -44,7 +44,7 @@ Obs: houve vários outros códigos de refinamento, explicações e etc
 ## 📚 Materiais e Recursos
 - [Link para o Ebook](https://github.com/silaslva/ebook-Guardioes-da-Estrutura/blob/main/ebook%20%26%20template/ebook.pdf)
 - [Link para o Template](https://github.com/silaslva/ebook-Guardioes-da-Estrutura/tree/main/ebook%20%26%20template)
-- [Geeks for Geeks](www.geeksforgeeks.org) Site usado para as ilustrações e compreensão
+- [Geeks for Geeks](www.geeksforgeeks.org)
 
 ## 📌 Localização
 
