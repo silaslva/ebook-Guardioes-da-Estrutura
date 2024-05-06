@@ -1,9 +1,8 @@
+# Guardiões da Estrutura - Explorando as Linked Lists em Python 🐍
 <p align="center">
-    <img width="100" src="ebook-Guardioes-da-Estrutura/images/md/Original.jpeg">
+    <img width="400" src="./images/original.png">
 </p>
 
-
-# Guardiões da Estrutura - Explorando as Linked Lists em Python 🐍
 
 ## 📖 Sobre o Projeto
 
@@ -42,3 +41,33 @@ Obs: houve vários outros códigos de refinamento, explicações e etc
 - [Link para o Ebook](https://github.com/silaslva/ebook-Guardioes-da-Estrutura/blob/main/ebook%20%26%20template/ebook.pdf)
 - [Link para o Template](https://github.com/silaslva/ebook-Guardioes-da-Estrutura/tree/main/ebook%20%26%20template)
 
+## 📌 Localização
+
+- Imagens utilizadas e artes adicionais em `images`
+- ebook `ebook & templates`
+
+## 🛠️ Instruções de execução
+
+Use os prompts citados porém vá instruindo e guiando de acordo com a necessidade, peça explicação simples mais de uma vez. Se for preciso peça exemplos e assim por diante, dessa forma você obterá respostas variadas e assim combinar as respostas para gerar coisas ainda melhores
+
+## 👨‍💻 DEV
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/150294928?s=400&u=28913a40109b7303b5f57667475f1563bdd55216&v=4"
+    />
+    <p>&nbsp&nbsp&nbspSilas Silva<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/silaslva">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/silaslva">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/silaslva/">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
